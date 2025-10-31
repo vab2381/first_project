@@ -25,3 +25,5 @@ Thumbs.db
 # Временные тестовые файлы
 tmp_data.txt
 
+.env
+
